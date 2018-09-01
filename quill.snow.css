@@ -867,6 +867,7 @@
   overflow-x: hidden;
   text-overflow: ellipsis;
   vertical-align: top;
+  color: #84ceff;
 }
 .ql-snow .ql-tooltip a.ql-action::after {
   border-right: 1px solid #ccc;
