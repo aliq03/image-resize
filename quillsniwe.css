@@ -3,7 +3,7 @@
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   height: 100%;
-  margin: 0px;
+  margin:0px -14px;
   position: relative;
 }
 .ql-container.ql-disabled .ql-tooltip {
